@@ -1,0 +1,19 @@
+{
+  "name": "quizzy-bee",
+  "version": "1.0.0",
+  "description": "A quick quiz application",
+  "main": "main.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [],
+  "author": "ECX",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
